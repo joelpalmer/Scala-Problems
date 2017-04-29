@@ -17,4 +17,11 @@ class Lists {
     list.lastOption
   }
 
+  //get the K'th element in a list.
+  //Builtin: http://www.scala-lang.org/api/2.12.2/scala/collection/IndexedSeq.html#lift:A=>Option[B]
+  //demo on Lists worksheet
+  def getKth[T](list: List[T], k: Int): Option[T] = {
+    list.lift(k)
+  }
+
 }
