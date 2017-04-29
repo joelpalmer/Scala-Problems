@@ -1,5 +1,10 @@
 sbt based Scala project.
-Solutions to several problems. Worksheets and ScalaTest tests as well. 
+
+Solutions to several problems. 
+
+Worksheets and ScalaTest tests for mine. 
+
+Worksheets only for built-ins  
 
 
 ### Scala Problems and solutions todos: 
