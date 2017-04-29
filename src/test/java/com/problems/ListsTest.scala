@@ -2,9 +2,6 @@ package com.problems
 
 import org.scalatest.FlatSpec
 
-/**
-  * Created by joelpalmer on 4/29/17.
-  */
 class ListsTest extends FlatSpec {
 
   "Lists.duplicate" should "duplicate elements of the list" in {
