@@ -1,6 +1,6 @@
 sbt based Scala project.
 
-Solutions to several problems. 
+Solutions to several problems along with Best Practices. 
 
 Worksheets and ScalaTest tests for mine. 
 
