@@ -12,3 +12,4 @@ Worksheets only for built-ins
 - [ ] Companion blog posts at: http://palmerpoint.blogspot.com/
 - [ ] Work out the P-99: Ninety-Nine Prolog Problems: https://sites.google.com/site/prologsite/prolog-problems
 - [ ] Update comments in to scaladoc comments and generate docs
+- [x] Add RxScala demos
